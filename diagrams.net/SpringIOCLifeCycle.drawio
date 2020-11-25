@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-25T14:36:38.958Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="kIQFsymorogRdHPMJwNs" version="13.10.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-25T14:41:34.612Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="Br8vjhInzxP-yVlcIj0W" version="13.10.2" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="2924" dy="980" grid="1" gridSize="7" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#F1FAEE" math="0" shadow="0">
+    <mxGraphModel dx="2060" dy="572" grid="1" gridSize="7" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#F1FAEE" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -47,6 +47,14 @@
             <mxPoint x="350" y="186" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="X2vZLEiec1v9-HC9pAJ2-12" value="prepareBeanFactory()&lt;br&gt;&lt;span style=&quot;font-size: 8px&quot;&gt;该方法为模板方法，本身没有方法体，&lt;br&gt;允许此类的子类实现该方法做自定义的扩展&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;strokeColor=#457B9D;fillColor=#A8DADC;fontSize=8;fontColor=#1D3557;align=left;" edge="1" parent="X2vZLEiec1v9-HC9pAJ2-2">
+          <mxGeometry x="-1" y="-45" width="80" relative="1" as="geometry">
+            <mxPoint x="72" y="385" as="sourcePoint" />
+            <mxPoint x="214" y="385" as="targetPoint" />
+            <Array as="points" />
+            <mxPoint x="-40" y="-24" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="X2vZLEiec1v9-HC9pAJ2-5" value="" style="html=1;verticalAlign=bottom;endArrow=block;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;exitX=0.019;exitY=0.988;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="X2vZLEiec1v9-HC9pAJ2-3" target="3nuBFxr9cyL0pnOWT2aG-2">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="140" y="400" as="sourcePoint" />
@@ -66,12 +74,6 @@
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="242" y="219" as="sourcePoint" />
             <mxPoint x="360" y="219" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="X2vZLEiec1v9-HC9pAJ2-12" value="prepareBeanFactory()" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;strokeColor=#457B9D;fillColor=#A8DADC;fontSize=8;fontColor=#1D3557;" edge="1" parent="1" source="X2vZLEiec1v9-HC9pAJ2-6">
-          <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="290" y="300" as="sourcePoint" />
-            <mxPoint x="480" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="X2vZLEiec1v9-HC9pAJ2-16" value="postProcessBeanFactory()" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;strokeColor=#457B9D;fillColor=#A8DADC;fontSize=8;fontColor=#1D3557;" edge="1" parent="1" source="X2vZLEiec1v9-HC9pAJ2-6">
