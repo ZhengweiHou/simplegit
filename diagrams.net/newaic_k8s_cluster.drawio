@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-01T09:21:47.947Z" agent="5.0 (X11)" etag="H6KAudYDKdpvYk_8B7p8" version="14.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-02T10:20:50.829Z" agent="5.0 (X11)" etag="r1LTRu5qhLtCXUt63g6u" version="14.5.4" type="github">
   <diagram id="riT8X2A_ONPbXt5bgRlh" name="Page-1">
     <mxGraphModel dx="2473" dy="847" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="0">
       <root>
@@ -304,15 +304,6 @@
         <mxCell id="v55RfGFPw0-nptX2fq-p-143" value="nginx" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#1CA5B8;fontColor=#FFFFFF;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;rounded=0;labelBackgroundColor=none;sketch=0;" parent="v55RfGFPw0-nptX2fq-p-1" vertex="1">
           <mxGeometry x="-527" y="489" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="v55RfGFPw0-nptX2fq-p-150" value="VIP:10.250.32.96" style="ellipse;whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;sketch=1;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#FF0000;fontStyle=1;fontSize=17;" parent="v55RfGFPw0-nptX2fq-p-1" vertex="1">
-          <mxGeometry x="-497" y="390" width="150" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="v55RfGFPw0-nptX2fq-p-151" value="master" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;sketch=1;fontSize=17;fontColor=#006600;fontStyle=1" parent="v55RfGFPw0-nptX2fq-p-1" vertex="1">
-          <mxGeometry x="-547" y="445" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="v55RfGFPw0-nptX2fq-p-152" value="&lt;div&gt;standby&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;sketch=1;fontSize=17;fontColor=#006600;fontStyle=1" parent="v55RfGFPw0-nptX2fq-p-1" vertex="1">
-          <mxGeometry x="-537" y="360" width="40" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="v55RfGFPw0-nptX2fq-p-153" value="" style="endArrow=classic;html=1;strokeColor=#457B9D;fillColor=#A8DADC;fontSize=15;fontColor=#003366;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=10;dashed=1;dashPattern=1 1;endSize=0;opacity=30;fontStyle=1" parent="v55RfGFPw0-nptX2fq-p-1" source="v55RfGFPw0-nptX2fq-p-150" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-847" y="310" as="sourcePoint" />
@@ -343,8 +334,17 @@
         <mxCell id="v55RfGFPw0-nptX2fq-p-156" value="flannel" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=0;labelBackgroundColor=none;sketch=1;strokeColor=#457B9D;fillColor=#A8DADC;fontSize=15;fontColor=#003366;fontStyle=1" parent="v55RfGFPw0-nptX2fq-p-1" vertex="1">
           <mxGeometry x="326" y="170" width="60" height="600" as="geometry" />
         </mxCell>
-        <mxCell id="_DYFNYH4yrblbIv9vSON-3" value="证书环境" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;strokeColor=#457B9D;fillColor=#A8DADC;fontSize=17;fontColor=#003366;fontStyle=1" vertex="1" parent="v55RfGFPw0-nptX2fq-p-1">
+        <mxCell id="_DYFNYH4yrblbIv9vSON-3" value="证书环境" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;strokeColor=#457B9D;fillColor=#A8DADC;fontSize=17;fontColor=#003366;fontStyle=1" parent="v55RfGFPw0-nptX2fq-p-1" vertex="1">
           <mxGeometry x="467" y="278" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="v55RfGFPw0-nptX2fq-p-150" value="VIP:10.250.32.96" style="ellipse;whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;sketch=1;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#FF0000;fontStyle=1;fontSize=17;" parent="v55RfGFPw0-nptX2fq-p-1" vertex="1">
+          <mxGeometry x="-497" y="390" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v55RfGFPw0-nptX2fq-p-152" value="BACKUP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;sketch=1;fontSize=17;fontColor=#006600;fontStyle=1" parent="v55RfGFPw0-nptX2fq-p-1" vertex="1">
+          <mxGeometry x="-540" y="360" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="v55RfGFPw0-nptX2fq-p-151" value="MASTER" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;sketch=1;fontSize=17;fontColor=#006600;fontStyle=1" parent="v55RfGFPw0-nptX2fq-p-1" vertex="1">
+          <mxGeometry x="-547" y="445" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
