@@ -1,16 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2021-05-28T06:37:06.969Z" agent="5.0 (Windows)" etag="DtCugoWyCQtSGeVWevdZ" version="14.4.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-05-28T06:56:04.590Z" agent="5.0 (Windows)" etag="cDx0hrxuD3IP7WU2MGxx" version="14.4.6" type="github" pages="2">
   <diagram id="Gk592L4hnnQ9GCLihXDh" name="stage1">
-    <mxGraphModel dx="579" dy="307" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="827" dy="439" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <object label="bk1" id="1">
           <mxCell parent="0" />
         </object>
         <mxCell id="yNH93C0ZbHh35sX8YeWS-34" value="旧环境" style="shape=umlFrame;whiteSpace=wrap;html=1;width=70;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;rounded=0;strokeColor=#d6b656;fillColor=#fff2cc;sketch=0;fontStyle=1;fontSize=16;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="180" y="160" width="160" height="350" as="geometry" />
+          <mxGeometry x="180" y="160" width="160" height="380" as="geometry" />
         </mxCell>
         <mxCell id="f5HnmFyCWbLnepRgtMc0-1" value="新环境" style="shape=umlFrame;whiteSpace=wrap;html=1;width=70;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;rounded=0;strokeColor=#82b366;fillColor=#d5e8d4;sketch=0;fontStyle=1;fontSize=16;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="390" y="160" width="160" height="350" as="geometry" />
+          <mxGeometry x="390" y="160" width="160" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="f5HnmFyCWbLnepRgtMc0-22" value="Hardware" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;sketch=0;strokeColor=#d6b656;strokeWidth=2;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="180" y="510" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="f5HnmFyCWbLnepRgtMc0-23" value="Hardware" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;sketch=0;strokeColor=#d6b656;strokeWidth=2;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="390" y="520" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="f5HnmFyCWbLnepRgtMc0-24" value="VM" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;sketch=0;strokeColor=#82b366;strokeWidth=2;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="390" y="480" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="f5HnmFyCWbLnepRgtMc0-26" value="Hypervisor" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;sketch=0;strokeColor=#6c8ebf;strokeWidth=2;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="390" y="500" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="f5HnmFyCWbLnepRgtMc0-27" value="VM" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;sketch=0;strokeColor=#82b366;strokeWidth=2;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="470" y="480" width="80" height="20" as="geometry" />
         </mxCell>
         <object label="run1" id="yNH93C0ZbHh35sX8YeWS-21">
           <mxCell parent="0" />
