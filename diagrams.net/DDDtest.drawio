@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-06T09:44:28.832Z" agent="5.0 (X11)" etag="9sc4WMFV-aqJq9R5B1On" version="14.9.4" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-08-06T09:51:18.624Z" agent="5.0 (X11)" etag="nxhai7hwjCA0mfx27reE" version="14.9.4" type="github" pages="7">
   <diagram id="KK3NRX-cH3OFIlQ7OjAE" name="Page-1">
     <mxGraphModel dx="2377" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -309,7 +309,7 @@
         <mxCell id="_PuQiC9BciGUrzdX0-02-3" value="&lt;div&gt;文件预处理&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;verticalAlign=top;glass=0;shadow=0;sketch=1;" vertex="1" parent="iU6KJwgafAIr5c-F0jaK-12">
           <mxGeometry x="660" y="475" width="200" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="sIM_DIrmKS0eQ3F3HyUv-44" value="&lt;div&gt;文件后置处理&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;verticalAlign=bottom;glass=0;shadow=0;sketch=1;" vertex="1" parent="iU6KJwgafAIr5c-F0jaK-12">
+        <mxCell id="sIM_DIrmKS0eQ3F3HyUv-44" value="&lt;div&gt;文件后置处理&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;align=center;verticalAlign=bottom;glass=0;shadow=0;sketch=1;" vertex="1" parent="iU6KJwgafAIr5c-F0jaK-12">
           <mxGeometry x="700" y="830" width="200" height="120" as="geometry" />
         </mxCell>
         <mxCell id="sIM_DIrmKS0eQ3F3HyUv-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" edge="1" parent="iU6KJwgafAIr5c-F0jaK-12" source="sIM_DIrmKS0eQ3F3HyUv-42" target="sIM_DIrmKS0eQ3F3HyUv-44">
@@ -419,8 +419,18 @@
         <mxCell id="w8_YjcuqtRNtB63_-DpC-40" value="&lt;div&gt;File-B1&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="iU6KJwgafAIr5c-F0jaK-1">
           <mxGeometry x="170" y="630" width="65" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="w8_YjcuqtRNtB63_-DpC-42" value="OutFile" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="iU6KJwgafAIr5c-F0jaK-1">
-          <mxGeometry x="215" y="1040" width="70" height="30" as="geometry" />
+        <mxCell id="sIM_DIrmKS0eQ3F3HyUv-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;curved=1;" edge="1" parent="iU6KJwgafAIr5c-F0jaK-1" source="w8_YjcuqtRNtB63_-DpC-42" target="sIM_DIrmKS0eQ3F3HyUv-50">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="797" y="980" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sIM_DIrmKS0eQ3F3HyUv-56" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" edge="1" parent="iU6KJwgafAIr5c-F0jaK-1" source="w8_YjcuqtRNtB63_-DpC-42" target="sIM_DIrmKS0eQ3F3HyUv-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w8_YjcuqtRNtB63_-DpC-42" value="OutFile" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="iU6KJwgafAIr5c-F0jaK-1">
+          <mxGeometry x="762" y="1020" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="w8_YjcuqtRNtB63_-DpC-44" value="&lt;div&gt;文件映射关系&lt;/div&gt;&lt;div&gt;（用于确定文件映射处理SPI实现）&lt;/div&gt;" style="shape=partialRectangle;html=1;top=1;align=center;dashed=1;" vertex="1" parent="iU6KJwgafAIr5c-F0jaK-1">
           <mxGeometry x="120" y="900" width="260" height="40" as="geometry" />
@@ -439,8 +449,7 @@
             <mxPoint x="265" y="570" as="sourcePoint" />
             <mxPoint x="320" y="440" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="295" y="1050" />
-              <mxPoint x="380" y="1050" />
+              <mxPoint x="380" y="1035" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -650,6 +659,33 @@
         </mxCell>
         <mxCell id="sIM_DIrmKS0eQ3F3HyUv-48" value="压缩" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="iU6KJwgafAIr5c-F0jaK-1">
           <mxGeometry x="710" y="890" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sIM_DIrmKS0eQ3F3HyUv-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" edge="1" parent="iU6KJwgafAIr5c-F0jaK-1" source="sIM_DIrmKS0eQ3F3HyUv-44" target="w8_YjcuqtRNtB63_-DpC-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sIM_DIrmKS0eQ3F3HyUv-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;curved=1;" edge="1" parent="iU6KJwgafAIr5c-F0jaK-1" source="sIM_DIrmKS0eQ3F3HyUv-50" target="sIM_DIrmKS0eQ3F3HyUv-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sIM_DIrmKS0eQ3F3HyUv-50" value="生成OK文件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="iU6KJwgafAIr5c-F0jaK-1">
+          <mxGeometry x="895" y="960" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sIM_DIrmKS0eQ3F3HyUv-52" value="OutFile.OK" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="iU6KJwgafAIr5c-F0jaK-1">
+          <mxGeometry x="990" y="1020" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sIM_DIrmKS0eQ3F3HyUv-54" value="1" style="endArrow=open;html=1;endSize=12;startArrow=diamondThin;startSize=14;startFill=0;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=bottom;fontSize=13;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="iU6KJwgafAIr5c-F0jaK-1" source="w8_YjcuqtRNtB63_-DpC-42" target="sIM_DIrmKS0eQ3F3HyUv-52">
+          <mxGeometry x="-1" y="3" relative="1" as="geometry">
+            <mxPoint x="840" y="1090" as="sourcePoint" />
+            <mxPoint x="1000" y="1090" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sIM_DIrmKS0eQ3F3HyUv-58" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" edge="1" parent="iU6KJwgafAIr5c-F0jaK-1" source="sIM_DIrmKS0eQ3F3HyUv-55" target="sIM_DIrmKS0eQ3F3HyUv-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sIM_DIrmKS0eQ3F3HyUv-55" value="文件上传" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="iU6KJwgafAIr5c-F0jaK-1">
+          <mxGeometry x="767" y="1090" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sIM_DIrmKS0eQ3F3HyUv-57" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;rounded=1;shadow=0;glass=0;sketch=0;fontSize=13;align=left;verticalAlign=bottom;" vertex="1" parent="iU6KJwgafAIr5c-F0jaK-1">
+          <mxGeometry x="782" y="1190" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
