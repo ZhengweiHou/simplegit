@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-02T02:21:00.528Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="qMmm1L0okQrVsXl1O2o6" version="15.0.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-09-02T02:22:39.908Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="YCVatfUAvytcFZG5nwg5" version="15.0.3" type="github" pages="2">
   <diagram name="Page-1" id="7a6c530e-6e37-e111-ec74-82921da8cc10">
     <mxGraphModel dx="1550" dy="787" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -297,7 +297,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Qf0AxjaTbRLKoYcm0E33" name="Page-2">
-    <mxGraphModel dx="1069" dy="543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="620" dy="315" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="rt2b1YU7vZ90wVehSUzO-0" />
         <mxCell id="rt2b1YU7vZ90wVehSUzO-1" parent="rt2b1YU7vZ90wVehSUzO-0" />
@@ -334,8 +334,8 @@
         <mxCell id="rt2b1YU7vZ90wVehSUzO-13" value="/api" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="rt2b1YU7vZ90wVehSUzO-1">
           <mxGeometry x="90" y="190" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="rt2b1YU7vZ90wVehSUzO-14" value="passproxy" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="rt2b1YU7vZ90wVehSUzO-1">
-          <mxGeometry x="170" y="190" width="50" height="20" as="geometry" />
+        <mxCell id="rt2b1YU7vZ90wVehSUzO-14" value="proxy-pass" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="rt2b1YU7vZ90wVehSUzO-1">
+          <mxGeometry x="170" y="190" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
