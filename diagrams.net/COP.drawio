@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-05T08:41:32.697Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="FnAgAfQo06UqQCTnlY1o" version="15.6.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-11-05T08:43:39.767Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="z0cMujFp-odaBynKSt2J" version="15.6.8" type="github" pages="3">
   <diagram id="a45cf8ec-cd66-6f27-3ac3-be6e809c9e4a" name="Page-1">
     <mxGraphModel dx="1488" dy="-181" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -439,10 +439,18 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SkCDnQ2SYdmcKz8_n_5e-0" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.mysql_db_instance;fillColor=#2E73B8;gradientColor=none;opacity=80;" vertex="1" parent="qx0oVpRMEg0PXfJlnUxp-1">
-          <mxGeometry x="1000" y="391.75" width="60" height="64.5" as="geometry" />
+          <mxGeometry x="1000" y="310" width="60" height="64.5" as="geometry" />
         </mxCell>
-        <mxCell id="SkCDnQ2SYdmcKz8_n_5e-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontSize=18;fontColor=#000000;startArrow=none;startFill=0;startSize=2;endSize=2;strokeWidth=2;" edge="1" parent="qx0oVpRMEg0PXfJlnUxp-1" source="WMCDYJzfeP4ilvsH5DsL-5" target="SkCDnQ2SYdmcKz8_n_5e-0">
+        <mxCell id="SkCDnQ2SYdmcKz8_n_5e-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontSize=18;fontColor=#000000;startArrow=none;startFill=0;startSize=2;endSize=2;strokeWidth=2;" edge="1" parent="qx0oVpRMEg0PXfJlnUxp-1" source="WMCDYJzfeP4ilvsH5DsL-5" target="SkCDnQ2SYdmcKz8_n_5e-0">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JiGB5_Nhcz8su5ztpdCg-0" value="casServer" style="rounded=0;whiteSpace=wrap;html=1;opacity=80;verticalAlign=top;fontSize=18;" vertex="1" parent="qx0oVpRMEg0PXfJlnUxp-1">
+          <mxGeometry x="990" y="490" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JiGB5_Nhcz8su5ztpdCg-1" value="&lt;span style=&quot;font-size: 11px&quot;&gt;http: cas validate&lt;/span&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;fontSize=18;fontColor=#000000;startArrow=none;startFill=0;startSize=2;endSize=2;strokeWidth=2;exitX=1;exitY=0.75;exitDx=0;exitDy=0;fillColor=#cce5ff;strokeColor=#97D077;" edge="1" parent="qx0oVpRMEg0PXfJlnUxp-1" source="WMCDYJzfeP4ilvsH5DsL-5" target="JiGB5_Nhcz8su5ztpdCg-0">
+          <mxGeometry x="0.0882" y="12" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
