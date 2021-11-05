@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-05T07:35:35.378Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="v9ZJWTkAuuD9ujVmBpze" version="15.6.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-11-05T07:37:34.751Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="b3IKyssfEuYQ2GApyA1N" version="15.6.8" type="github" pages="3">
   <diagram id="a45cf8ec-cd66-6f27-3ac3-be6e809c9e4a" name="Page-1">
     <mxGraphModel dx="1488" dy="-181" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -281,6 +281,12 @@
         </mxCell>
         <mxCell id="IfMNmnAETyvcoUPqWXnd-3" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Jt0k9TdgYXrBcGe0wMQc-7" source="ASKXDSSg02tN9hSjQH5t-27" target="IfMNmnAETyvcoUPqWXnd-0">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IfMNmnAETyvcoUPqWXnd-4" value="CAS主机1" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=none;fillColor=#BAC8D3;gradientColor=none;fontSize=18;fontColor=#AE4132;verticalAlign=top;fontStyle=0;opacity=40;strokeWidth=3;" vertex="1" parent="Jt0k9TdgYXrBcGe0wMQc-7">
+          <mxGeometry x="490" y="1800" width="190" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="IfMNmnAETyvcoUPqWXnd-5" value="CAS主机1" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=none;fillColor=#BAC8D3;gradientColor=none;fontSize=18;fontColor=#AE4132;verticalAlign=top;fontStyle=0;opacity=40;strokeWidth=3;" vertex="1" parent="Jt0k9TdgYXrBcGe0wMQc-7">
+          <mxGeometry x="800" y="1800" width="190" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
