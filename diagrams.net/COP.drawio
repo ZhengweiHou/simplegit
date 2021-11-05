@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-05T08:08:36.800Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="DAN1hVd5FHogg9w2VKR9" version="15.6.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-11-05T08:11:59.550Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="yP2pJ0drCdqP1k9CJqmf" version="15.6.8" type="github" pages="3">
   <diagram id="a45cf8ec-cd66-6f27-3ac3-be6e809c9e4a" name="Page-1">
     <mxGraphModel dx="1488" dy="-181" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -325,6 +325,12 @@
         </mxCell>
         <mxCell id="IfMNmnAETyvcoUPqWXnd-23" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/humility-icons-MERGE/48x48/mimetypes/gnome-mime-application-x-x509-ca-cert.png;fontSize=18;fontColor=#000000;" vertex="1" parent="Jt0k9TdgYXrBcGe0wMQc-7">
           <mxGeometry x="760" y="1910" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IfMNmnAETyvcoUPqWXnd-25" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://github.com/alibaba/nacos/raw/develop/doc/Nacos_Logo.png;" vertex="1" parent="Jt0k9TdgYXrBcGe0wMQc-7">
+          <mxGeometry x="1097.06" y="1754" width="162.94" height="31.96" as="geometry" />
+        </mxCell>
+        <mxCell id="IfMNmnAETyvcoUPqWXnd-28" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/redis-2/1451/Untitled-2-128.png;fontSize=18;fontColor=#FF6666;" vertex="1" parent="Jt0k9TdgYXrBcGe0wMQc-7">
+          <mxGeometry x="1097.06" y="1850" width="81.53" height="81.53" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
