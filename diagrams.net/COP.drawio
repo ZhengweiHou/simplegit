@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-05T09:30:09.552Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="T25zoqfMUSBbuMWE2GaI" version="15.6.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-11-05T09:33:19.785Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="KDvqOfio3j9AxIGYvtWM" version="15.6.8" type="github" pages="3">
   <diagram id="a45cf8ec-cd66-6f27-3ac3-be6e809c9e4a" name="Page-1">
     <mxGraphModel dx="1488" dy="-242" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -111,7 +111,7 @@
           <mxGeometry x="640" y="1170" width="480" height="230" as="geometry" />
         </mxCell>
         <mxCell id="ASKXDSSg02tN9hSjQH5t-57" value="COP主机2" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=none;fillColor=#BAC8D3;gradientColor=none;fontSize=18;fontColor=#AE4132;verticalAlign=top;fontStyle=0;opacity=40;strokeWidth=3;" parent="ASKXDSSg02tN9hSjQH5t-1" vertex="1">
-          <mxGeometry x="640" y="850" width="480" height="270" as="geometry" />
+          <mxGeometry x="640" y="850" width="480" height="220" as="geometry" />
         </mxCell>
         <mxCell id="ASKXDSSg02tN9hSjQH5t-2" value="COP主机1" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=none;fillColor=#BAC8D3;gradientColor=none;fontSize=18;fontColor=#AE4132;verticalAlign=top;fontStyle=0;opacity=40;strokeWidth=3;" parent="ASKXDSSg02tN9hSjQH5t-1" vertex="1">
           <mxGeometry x="640" y="530" width="480" height="290" as="geometry" />
@@ -243,23 +243,26 @@
         <mxCell id="DATDpdkY5aBtL3M5rt94-0" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.mysql_db_instance;fillColor=#2E73B8;gradientColor=none;opacity=80;" parent="ASKXDSSg02tN9hSjQH5t-1" vertex="1">
           <mxGeometry x="1260" y="870" width="60" height="64.5" as="geometry" />
         </mxCell>
+        <mxCell id="uF6c9cGzVe4yhtSwlCul-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ASKXDSSg02tN9hSjQH5t-1" source="DATDpdkY5aBtL3M5rt94-2" target="DATDpdkY5aBtL3M5rt94-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="DATDpdkY5aBtL3M5rt94-2" value="casServer" style="rounded=0;whiteSpace=wrap;html=1;opacity=80;verticalAlign=top;fontSize=18;" parent="ASKXDSSg02tN9hSjQH5t-1" vertex="1">
-          <mxGeometry x="885" y="1217.5" width="100" height="82.5" as="geometry" />
+          <mxGeometry x="830" y="1207.5" width="100" height="82.5" as="geometry" />
         </mxCell>
         <mxCell id="DATDpdkY5aBtL3M5rt94-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/humility-icons-MERGE/48x48/mimetypes/gnome-mime-application-x-x509-ca-cert.png;fontSize=18;fontColor=#000000;" parent="ASKXDSSg02tN9hSjQH5t-1" vertex="1">
           <mxGeometry x="710" y="920" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DATDpdkY5aBtL3M5rt94-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/humility-icons-MERGE/48x48/mimetypes/gnome-mime-application-x-x509-ca-cert.png;fontSize=18;fontColor=#000000;" parent="ASKXDSSg02tN9hSjQH5t-1" vertex="1">
-          <mxGeometry x="900" y="1250" width="40" height="40" as="geometry" />
+          <mxGeometry x="880" y="1240" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="DATDpdkY5aBtL3M5rt94-5" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://github.com/alibaba/nacos/raw/develop/doc/Nacos_Logo.png;" parent="ASKXDSSg02tN9hSjQH5t-1" vertex="1">
-          <mxGeometry x="967" y="770" width="81.57" height="16" as="geometry" />
+        <mxCell id="DATDpdkY5aBtL3M5rt94-5" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://github.com/alibaba/nacos/raw/develop/doc/Nacos_Logo.png;imageBackground=default;" parent="ASKXDSSg02tN9hSjQH5t-1" vertex="1">
+          <mxGeometry x="982.93" y="776.75" width="81.57" height="16" as="geometry" />
         </mxCell>
         <mxCell id="DATDpdkY5aBtL3M5rt94-6" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/redis-2/1451/Untitled-2-128.png;fontSize=18;fontColor=#FF6666;" parent="ASKXDSSg02tN9hSjQH5t-1" vertex="1">
           <mxGeometry x="1010" y="1310" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="DATDpdkY5aBtL3M5rt94-7" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://github.com/alibaba/nacos/raw/develop/doc/Nacos_Logo.png;" parent="ASKXDSSg02tN9hSjQH5t-1" vertex="1">
-          <mxGeometry x="960" y="1000" width="81.57" height="16" as="geometry" />
+        <mxCell id="DATDpdkY5aBtL3M5rt94-7" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://github.com/alibaba/nacos/raw/develop/doc/Nacos_Logo.png;imageBackground=default;" parent="ASKXDSSg02tN9hSjQH5t-1" vertex="1">
+          <mxGeometry x="970" y="1017" width="81.57" height="16" as="geometry" />
         </mxCell>
         <mxCell id="PHW0wJO5abutrmgs0cvA-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="ASKXDSSg02tN9hSjQH5t-1" source="ASKXDSSg02tN9hSjQH5t-33" target="DATDpdkY5aBtL3M5rt94-0" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -279,34 +282,34 @@
             <mxPoint x="1350" y="911.5912587412588" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PHW0wJO5abutrmgs0cvA-4" value="https" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#a20025;strokeColor=#6F0000;fontSize=18;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.95;exitY=0.94;exitDx=0;exitDy=0;exitPerimeter=0;" parent="ASKXDSSg02tN9hSjQH5t-1" source="ASKXDSSg02tN9hSjQH5t-6" target="DATDpdkY5aBtL3M5rt94-2" edge="1">
+        <mxCell id="PHW0wJO5abutrmgs0cvA-4" value="https" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#a20025;strokeColor=#6F0000;fontSize=18;exitX=0.95;exitY=0.94;exitDx=0;exitDy=0;exitPerimeter=0;" parent="ASKXDSSg02tN9hSjQH5t-1" source="ASKXDSSg02tN9hSjQH5t-6" target="DATDpdkY5aBtL3M5rt94-2" edge="1">
           <mxGeometry x="-0.6841" relative="1" as="geometry">
             <mxPoint x="442.00000000000045" y="880" as="sourcePoint" />
             <mxPoint x="895" y="1268.75" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="461" y="1259" />
+              <mxPoint x="461" y="1249" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PHW0wJO5abutrmgs0cvA-5" value="http: cas validate" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;fillColor=#d5e8d4;strokeColor=#82b366;labelBackgroundColor=none;" parent="ASKXDSSg02tN9hSjQH5t-1" source="ASKXDSSg02tN9hSjQH5t-33" target="DATDpdkY5aBtL3M5rt94-2" edge="1">
+        <mxCell id="PHW0wJO5abutrmgs0cvA-5" value="http: cas validate" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;fillColor=#d5e8d4;strokeColor=#82b366;labelBackgroundColor=none;" parent="ASKXDSSg02tN9hSjQH5t-1" source="ASKXDSSg02tN9hSjQH5t-33" target="DATDpdkY5aBtL3M5rt94-2" edge="1">
           <mxGeometry x="-0.8457" relative="1" as="geometry">
             <mxPoint x="1110" y="740" as="sourcePoint" />
             <mxPoint x="995" y="1268.75" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1190" y="830" />
-              <mxPoint x="1190" y="1259" />
+              <mxPoint x="1190" y="1190" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PHW0wJO5abutrmgs0cvA-6" value="&lt;span style=&quot;&quot;&gt;http: cas validate&lt;/span&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;fillColor=#d5e8d4;strokeColor=#82b366;labelBackgroundColor=none;" parent="ASKXDSSg02tN9hSjQH5t-1" source="ASKXDSSg02tN9hSjQH5t-58" target="DATDpdkY5aBtL3M5rt94-2" edge="1">
+        <mxCell id="PHW0wJO5abutrmgs0cvA-6" value="&lt;span style=&quot;&quot;&gt;http: cas validate&lt;/span&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;fillColor=#d5e8d4;strokeColor=#82b366;labelBackgroundColor=none;" parent="ASKXDSSg02tN9hSjQH5t-1" source="ASKXDSSg02tN9hSjQH5t-58" target="DATDpdkY5aBtL3M5rt94-2" edge="1">
           <mxGeometry x="-0.8849" y="7" relative="1" as="geometry">
             <mxPoint x="1110" y="960" as="sourcePoint" />
             <mxPoint x="995" y="1268.75" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1190" y="1010" />
-              <mxPoint x="1190" y="1259" />
+              <mxPoint x="1190" y="1190" />
             </Array>
             <mxPoint y="-1" as="offset" />
           </mxGeometry>
@@ -319,9 +322,6 @@
             <mxPoint x="1280" y="1060" as="sourcePoint" />
             <mxPoint x="1380" y="960" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="uF6c9cGzVe4yhtSwlCul-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/nginx-128.png;rounded=1;fontSize=18;fontColor=#1A1A1A;strokeColor=default;strokeWidth=1;fillColor=#CCCCCC;gradientColor=none;" vertex="1" parent="ASKXDSSg02tN9hSjQH5t-1">
-          <mxGeometry x="670.0041025641026" y="1337.4985106382978" width="35" height="35" as="geometry" />
         </mxCell>
         <mxCell id="uF6c9cGzVe4yhtSwlCul-6" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/redis-2/1451/Untitled-2-128.png;fontSize=18;fontColor=#FF6666;" vertex="1" parent="ASKXDSSg02tN9hSjQH5t-1">
           <mxGeometry x="710" y="990" width="70" height="70" as="geometry" />
@@ -338,20 +338,24 @@
             <mxPoint x="1030" y="610.45" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uF6c9cGzVe4yhtSwlCul-12" value="https" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#a20025;strokeColor=#6F0000;fontSize=18;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ASKXDSSg02tN9hSjQH5t-1">
+        <mxCell id="uF6c9cGzVe4yhtSwlCul-12" value="https" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#a20025;strokeColor=#6F0000;fontSize=18;exitX=0;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="ASKXDSSg02tN9hSjQH5t-1" source="ASKXDSSg02tN9hSjQH5t-6" target="uF6c9cGzVe4yhtSwlCul-5">
           <mxGeometry x="-0.6841" relative="1" as="geometry">
             <mxPoint x="382.0000000000002" y="880" as="sourcePoint" />
             <mxPoint x="620.0041025641028" y="1364.9985106382978" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="382" y="980" />
-              <mxPoint x="360" y="980" />
-              <mxPoint x="360" y="1365" />
+              <mxPoint x="400" y="1355" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uF6c9cGzVe4yhtSwlCul-13" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/humility-icons-MERGE/48x48/mimetypes/gnome-mime-application-x-x509-ca-cert.png;fontSize=18;fontColor=#000000;" vertex="1" parent="ASKXDSSg02tN9hSjQH5t-1">
-          <mxGeometry x="630" y="1460" width="40" height="40" as="geometry" />
+          <mxGeometry x="690" y="1350" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uF6c9cGzVe4yhtSwlCul-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/nginx-128.png;rounded=1;fontSize=18;fontColor=#1A1A1A;strokeColor=default;strokeWidth=1;fillColor=#CCCCCC;gradientColor=none;" vertex="1" parent="ASKXDSSg02tN9hSjQH5t-1">
+          <mxGeometry x="670.0041025641026" y="1337.4985106382978" width="35" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="uF6c9cGzVe4yhtSwlCul-14" value="casmanage" style="rounded=0;whiteSpace=wrap;html=1;opacity=80;verticalAlign=top;fontSize=18;" vertex="1" parent="ASKXDSSg02tN9hSjQH5t-1">
+          <mxGeometry x="827" y="1330" width="100" height="62.5" as="geometry" />
         </mxCell>
         <mxCell id="BonjyZ57DGU0gJuHVtI2-0" value="Untitled Layer" parent="ASKXDSSg02tN9hSjQH5t-0" />
         <mxCell id="BonjyZ57DGU0gJuHVtI2-31" value="展开" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=default;fontSize=18;fontColor=#000000;startSize=2;endSize=2;strokeColor=#999999;strokeWidth=11;entryX=0.961;entryY=1.007;entryDx=0;entryDy=0;dashed=1;dashPattern=1 1;opacity=40;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryPerimeter=0;" parent="BonjyZ57DGU0gJuHVtI2-0" source="ASKXDSSg02tN9hSjQH5t-33" target="BonjyZ57DGU0gJuHVtI2-30" edge="1">
