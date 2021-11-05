@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-05T07:23:36.750Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="USETMkDH3wP9FYkCp538" version="15.6.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-11-05T07:23:44.500Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="kQmx8bfHnrECEq3i1T6H" version="15.6.8" type="github" pages="3">
   <diagram id="a45cf8ec-cd66-6f27-3ac3-be6e809c9e4a" name="Page-1">
     <mxGraphModel dx="1488" dy="-181" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -103,7 +103,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="BbGEbwnxWwUT7zpcqst1" name="Page-2">
-    <mxGraphModel dx="1026" dy="-488" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1751" dy="-7" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="ASKXDSSg02tN9hSjQH5t-0" />
         <mxCell id="ASKXDSSg02tN9hSjQH5t-1" parent="ASKXDSSg02tN9hSjQH5t-0" />
@@ -150,9 +150,6 @@
             <mxPoint x="200" y="1498" as="sourcePoint" />
             <mxPoint x="204" y="1427" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="ASKXDSSg02tN9hSjQH5t-25" value="COP应用主机2" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=none;fillColor=#BAC8D3;gradientColor=none;fontSize=18;fontColor=#AE4132;verticalAlign=top;fontStyle=0;opacity=40;strokeWidth=3;" parent="ASKXDSSg02tN9hSjQH5t-1" vertex="1">
-          <mxGeometry x="1195" y="1643" width="363" height="272" as="geometry" />
         </mxCell>
         <mxCell id="ASKXDSSg02tN9hSjQH5t-32" value="" style="group" parent="ASKXDSSg02tN9hSjQH5t-1" vertex="1" connectable="0">
           <mxGeometry x="840" y="1660" width="120" height="80.0038461538461" as="geometry" />
