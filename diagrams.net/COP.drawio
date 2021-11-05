@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-05T09:35:12.690Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="_dJbXKioQEgOqX_yXpYe" version="15.6.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-11-05T09:38:44.958Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="LX80Wm8UiabIhZykzQeU" version="15.6.8" type="github" pages="3">
   <diagram id="a45cf8ec-cd66-6f27-3ac3-be6e809c9e4a" name="Page-1">
     <mxGraphModel dx="1488" dy="-242" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -103,12 +103,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="BbGEbwnxWwUT7zpcqst1" name="Page-2">
-    <mxGraphModel dx="709" dy="441" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1488" dy="927" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="ASKXDSSg02tN9hSjQH5t-0" />
         <mxCell id="ASKXDSSg02tN9hSjQH5t-1" parent="ASKXDSSg02tN9hSjQH5t-0" />
         <mxCell id="DATDpdkY5aBtL3M5rt94-1" value="CAS主机 × 2" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=none;fillColor=#BAC8D3;gradientColor=none;fontSize=18;fontColor=#AE4132;verticalAlign=top;fontStyle=0;opacity=40;strokeWidth=3;" parent="ASKXDSSg02tN9hSjQH5t-1" vertex="1">
-          <mxGeometry x="640" y="1170" width="480" height="230" as="geometry" />
+          <mxGeometry x="640" y="1170" width="480" height="310" as="geometry" />
         </mxCell>
         <mxCell id="ASKXDSSg02tN9hSjQH5t-57" value="COP主机2" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=none;fillColor=#BAC8D3;gradientColor=none;fontSize=18;fontColor=#AE4132;verticalAlign=top;fontStyle=0;opacity=40;strokeWidth=3;" parent="ASKXDSSg02tN9hSjQH5t-1" vertex="1">
           <mxGeometry x="640" y="850" width="480" height="220" as="geometry" />
@@ -246,20 +246,14 @@
         <mxCell id="uF6c9cGzVe4yhtSwlCul-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ASKXDSSg02tN9hSjQH5t-1" source="DATDpdkY5aBtL3M5rt94-2" target="DATDpdkY5aBtL3M5rt94-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DATDpdkY5aBtL3M5rt94-2" value="casServer" style="rounded=0;whiteSpace=wrap;html=1;opacity=80;verticalAlign=top;fontSize=18;" parent="ASKXDSSg02tN9hSjQH5t-1" vertex="1">
-          <mxGeometry x="830" y="1207.5" width="100" height="82.5" as="geometry" />
-        </mxCell>
         <mxCell id="DATDpdkY5aBtL3M5rt94-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/humility-icons-MERGE/48x48/mimetypes/gnome-mime-application-x-x509-ca-cert.png;fontSize=18;fontColor=#000000;" parent="ASKXDSSg02tN9hSjQH5t-1" vertex="1">
           <mxGeometry x="710" y="920" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="DATDpdkY5aBtL3M5rt94-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/humility-icons-MERGE/48x48/mimetypes/gnome-mime-application-x-x509-ca-cert.png;fontSize=18;fontColor=#000000;" parent="ASKXDSSg02tN9hSjQH5t-1" vertex="1">
-          <mxGeometry x="880" y="1240" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DATDpdkY5aBtL3M5rt94-5" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://github.com/alibaba/nacos/raw/develop/doc/Nacos_Logo.png;imageBackground=default;" parent="ASKXDSSg02tN9hSjQH5t-1" vertex="1">
           <mxGeometry x="982.93" y="776.75" width="81.57" height="16" as="geometry" />
         </mxCell>
         <mxCell id="DATDpdkY5aBtL3M5rt94-6" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/redis-2/1451/Untitled-2-128.png;fontSize=18;fontColor=#FF6666;" parent="ASKXDSSg02tN9hSjQH5t-1" vertex="1">
-          <mxGeometry x="1010" y="1310" width="70" height="70" as="geometry" />
+          <mxGeometry x="680" y="1180" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="DATDpdkY5aBtL3M5rt94-7" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://github.com/alibaba/nacos/raw/develop/doc/Nacos_Logo.png;imageBackground=default;" parent="ASKXDSSg02tN9hSjQH5t-1" vertex="1">
           <mxGeometry x="970" y="1017" width="81.57" height="16" as="geometry" />
@@ -287,7 +281,7 @@
             <mxPoint x="442.00000000000045" y="880" as="sourcePoint" />
             <mxPoint x="895" y="1268.75" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="461" y="1249" />
+              <mxPoint x="461" y="1320" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
@@ -324,7 +318,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="uF6c9cGzVe4yhtSwlCul-6" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/redis-2/1451/Untitled-2-128.png;fontSize=18;fontColor=#FF6666;" vertex="1" parent="ASKXDSSg02tN9hSjQH5t-1">
-          <mxGeometry x="710" y="990" width="70" height="70" as="geometry" />
+          <mxGeometry x="680" y="990" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ASKXDSSg02tN9hSjQH5t-27" value="&lt;font color=&quot;#1a1a1a&quot;&gt;&amp;nbsp;copbat&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontColor=#99FF99;strokeColor=default;strokeWidth=1;fillColor=#CCCCCC;gradientColor=none;align=left;verticalAlign=top;" parent="ASKXDSSg02tN9hSjQH5t-1" vertex="1">
           <mxGeometry x="980" y="560.0038461538461" width="120" height="80" as="geometry" />
@@ -349,14 +343,23 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uF6c9cGzVe4yhtSwlCul-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.463;entryY=0.986;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="ASKXDSSg02tN9hSjQH5t-1" source="uF6c9cGzVe4yhtSwlCul-14" target="DATDpdkY5aBtL3M5rt94-2">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="uF6c9cGzVe4yhtSwlCul-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.463;entryY=0.986;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="ASKXDSSg02tN9hSjQH5t-1" source="uF6c9cGzVe4yhtSwlCul-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="896.3000000000002" y="1320.0049999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uF6c9cGzVe4yhtSwlCul-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.975;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="ASKXDSSg02tN9hSjQH5t-1" source="uF6c9cGzVe4yhtSwlCul-14" target="DATDpdkY5aBtL3M5rt94-0">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1290" y="1389" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="uF6c9cGzVe4yhtSwlCul-14" value="casmanage" style="rounded=0;whiteSpace=wrap;html=1;opacity=80;verticalAlign=top;fontSize=18;" vertex="1" parent="ASKXDSSg02tN9hSjQH5t-1">
-          <mxGeometry x="850" y="1318.75" width="100" height="62.5" as="geometry" />
+          <mxGeometry x="850" y="1376.16" width="100" height="62.5" as="geometry" />
         </mxCell>
         <mxCell id="uF6c9cGzVe4yhtSwlCul-18" value="" style="group" vertex="1" connectable="0" parent="ASKXDSSg02tN9hSjQH5t-1">
-          <mxGeometry x="680" y="1310" width="120.0041025641026" height="90" as="geometry" />
+          <mxGeometry x="680" y="1348.66" width="120.0041025641026" height="90" as="geometry" />
         </mxCell>
         <mxCell id="uF6c9cGzVe4yhtSwlCul-17" value="cas前端" style="rounded=0;whiteSpace=wrap;html=1;opacity=80;verticalAlign=top;fontSize=18;" vertex="1" parent="uF6c9cGzVe4yhtSwlCul-18">
           <mxGeometry width="120" height="80" as="geometry" />
@@ -370,7 +373,19 @@
         <mxCell id="uF6c9cGzVe4yhtSwlCul-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ASKXDSSg02tN9hSjQH5t-1" source="uF6c9cGzVe4yhtSwlCul-17" target="uF6c9cGzVe4yhtSwlCul-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BonjyZ57DGU0gJuHVtI2-0" value="Untitled Layer" parent="ASKXDSSg02tN9hSjQH5t-0" />
+        <mxCell id="uF6c9cGzVe4yhtSwlCul-22" value="redis 集群&lt;br style=&quot;font-size: 15px;&quot;&gt;redis × 3" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;fontSize=15;fontColor=#FF0000;" vertex="1" parent="ASKXDSSg02tN9hSjQH5t-1">
+          <mxGeometry x="670" y="975" width="100" height="275" as="geometry" />
+        </mxCell>
+        <mxCell id="uF6c9cGzVe4yhtSwlCul-23" value="" style="group" vertex="1" connectable="0" parent="ASKXDSSg02tN9hSjQH5t-1">
+          <mxGeometry x="850" y="1270" width="100" height="82.5" as="geometry" />
+        </mxCell>
+        <mxCell id="DATDpdkY5aBtL3M5rt94-2" value="casServer" style="rounded=0;whiteSpace=wrap;html=1;opacity=80;verticalAlign=top;fontSize=18;" parent="uF6c9cGzVe4yhtSwlCul-23" vertex="1">
+          <mxGeometry width="100" height="82.5" as="geometry" />
+        </mxCell>
+        <mxCell id="DATDpdkY5aBtL3M5rt94-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/humility-icons-MERGE/48x48/mimetypes/gnome-mime-application-x-x509-ca-cert.png;fontSize=18;fontColor=#000000;" parent="uF6c9cGzVe4yhtSwlCul-23" vertex="1">
+          <mxGeometry x="50" y="40" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BonjyZ57DGU0gJuHVtI2-0" value="Untitled Layer" parent="ASKXDSSg02tN9hSjQH5t-0" visible="0" />
         <mxCell id="BonjyZ57DGU0gJuHVtI2-31" value="展开" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=default;fontSize=18;fontColor=#000000;startSize=2;endSize=2;strokeColor=#999999;strokeWidth=11;entryX=0.961;entryY=1.007;entryDx=0;entryDy=0;dashed=1;dashPattern=1 1;opacity=40;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryPerimeter=0;" parent="BonjyZ57DGU0gJuHVtI2-0" source="ASKXDSSg02tN9hSjQH5t-33" target="BonjyZ57DGU0gJuHVtI2-30" edge="1">
           <mxGeometry x="0.4753" y="-1" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1114.04" y="640" as="sourcePoint" />
