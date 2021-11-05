@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-05T09:38:44.958Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="LX80Wm8UiabIhZykzQeU" version="15.6.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-11-05T09:39:06.499Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="FJJnj3jBhgtUkxpic8z0" version="15.6.8" type="github" pages="3">
   <diagram id="a45cf8ec-cd66-6f27-3ac3-be6e809c9e4a" name="Page-1">
     <mxGraphModel dx="1488" dy="-242" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -373,8 +373,8 @@
         <mxCell id="uF6c9cGzVe4yhtSwlCul-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ASKXDSSg02tN9hSjQH5t-1" source="uF6c9cGzVe4yhtSwlCul-17" target="uF6c9cGzVe4yhtSwlCul-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uF6c9cGzVe4yhtSwlCul-22" value="redis 集群&lt;br style=&quot;font-size: 15px;&quot;&gt;redis × 3" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;fontSize=15;fontColor=#FF0000;" vertex="1" parent="ASKXDSSg02tN9hSjQH5t-1">
-          <mxGeometry x="670" y="975" width="100" height="275" as="geometry" />
+        <mxCell id="uF6c9cGzVe4yhtSwlCul-22" value="redis哨兵集群&lt;br style=&quot;font-size: 15px&quot;&gt;redis × 3" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;fontSize=15;fontColor=#FF0000;" vertex="1" parent="ASKXDSSg02tN9hSjQH5t-1">
+          <mxGeometry x="660" y="975" width="110" height="275" as="geometry" />
         </mxCell>
         <mxCell id="uF6c9cGzVe4yhtSwlCul-23" value="" style="group" vertex="1" connectable="0" parent="ASKXDSSg02tN9hSjQH5t-1">
           <mxGeometry x="850" y="1270" width="100" height="82.5" as="geometry" />
