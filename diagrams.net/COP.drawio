@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-09T07:48:41.756Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="6Fw1zPmDlXkIXWQq46jc" version="15.7.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-11-09T07:49:00.315Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="IeEtbGy9fZrv8rl4zYug" version="15.7.0" type="github" pages="5">
   <diagram id="a45cf8ec-cd66-6f27-3ac3-be6e809c9e4a" name="Page-1">
     <mxGraphModel dx="1536" dy="-309" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -1352,9 +1352,6 @@
         </mxCell>
         <mxCell id="9XYrPLEqTgGcI38VWdgC-93" value="&amp;nbsp;casServer" style="rounded=0;whiteSpace=wrap;html=1;opacity=80;verticalAlign=top;fontSize=18;align=left;" parent="9XYrPLEqTgGcI38VWdgC-92" vertex="1">
           <mxGeometry width="120" height="82.5" as="geometry" />
-        </mxCell>
-        <mxCell id="9XYrPLEqTgGcI38VWdgC-94" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/humility-icons-MERGE/48x48/mimetypes/gnome-mime-application-x-x509-ca-cert.png;fontSize=18;fontColor=#000000;" parent="9XYrPLEqTgGcI38VWdgC-92" vertex="1">
-          <mxGeometry x="20" y="30" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9XYrPLEqTgGcI38VWdgC-95" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.java;rounded=1;shadow=0;fontSize=18;fontColor=#99FF99;strokeColor=default;strokeWidth=1;fillColor=none;gradientColor=none;" parent="9XYrPLEqTgGcI38VWdgC-92" vertex="1">
           <mxGeometry x="80" y="21.25" width="30" height="40" as="geometry" />
