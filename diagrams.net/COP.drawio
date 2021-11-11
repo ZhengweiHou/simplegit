@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-11T01:49:32.947Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="OyidmFrZusLhqhwCIFLP" version="15.7.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-11-11T01:51:06.179Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="S6QyurbQHcopQwSdBpXA" version="15.7.0" type="github" pages="5">
   <diagram id="a45cf8ec-cd66-6f27-3ac3-be6e809c9e4a" name="Page-1">
     <mxGraphModel dx="1536" dy="-309" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -532,7 +532,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of Page-2" id="SVpsSWM8j1He04OeW0jd">
-    <mxGraphModel dx="2560" dy="1433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2194" dy="1229" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="gt5TFyXKR0X2eZiuvS_t-0" />
         <mxCell id="gt5TFyXKR0X2eZiuvS_t-1" value="cop app 容器集群" parent="gt5TFyXKR0X2eZiuvS_t-0" />
@@ -807,13 +807,13 @@
           <mxGeometry x="710" y="920" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gt5TFyXKR0X2eZiuvS_t-68" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://github.com/alibaba/nacos/raw/develop/doc/Nacos_Logo.png;imageBackground=default;" parent="gt5TFyXKR0X2eZiuvS_t-33" vertex="1">
-          <mxGeometry x="982.93" y="776.75" width="81.57" height="16" as="geometry" />
+          <mxGeometry x="921.28" y="773.25" width="166.96" height="32.75" as="geometry" />
         </mxCell>
         <mxCell id="gt5TFyXKR0X2eZiuvS_t-69" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/redis-2/1451/Untitled-2-128.png;fontSize=18;fontColor=#FF6666;" parent="gt5TFyXKR0X2eZiuvS_t-33" vertex="1">
           <mxGeometry x="680" y="1180" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="gt5TFyXKR0X2eZiuvS_t-70" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://github.com/alibaba/nacos/raw/develop/doc/Nacos_Logo.png;imageBackground=default;" parent="gt5TFyXKR0X2eZiuvS_t-33" vertex="1">
-          <mxGeometry x="970" y="1017" width="81.57" height="16" as="geometry" />
+          <mxGeometry x="920" y="1017" width="168.24" height="33" as="geometry" />
         </mxCell>
         <mxCell id="gt5TFyXKR0X2eZiuvS_t-71" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="gt5TFyXKR0X2eZiuvS_t-33" source="gt5TFyXKR0X2eZiuvS_t-51" target="gt5TFyXKR0X2eZiuvS_t-65" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
