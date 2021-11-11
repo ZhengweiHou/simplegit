@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-11T08:44:10.143Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="Dm19jX0bpKV3HXVnnfDi" version="15.7.0" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-11-11T08:45:30.240Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="HOZrb7kYNU9d-Hn5x_sb" version="15.7.0" type="github" pages="6">
   <diagram id="a45cf8ec-cd66-6f27-3ac3-be6e809c9e4a" name="Page-1">
     <mxGraphModel dx="1536" dy="-309" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -976,7 +976,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Page-2" id="KStF_IsO6cB4gq6jhFex">
-    <mxGraphModel dx="3072" dy="1598" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4389" dy="2283" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="a8yW2OLtsGay3cAYbttM-0" />
         <mxCell id="a8yW2OLtsGay3cAYbttM-1" value="cop app 容器集群" parent="a8yW2OLtsGay3cAYbttM-0" />
@@ -1104,10 +1104,10 @@
           <mxGeometry x="214" y="1090" width="200" height="340" as="geometry" />
         </mxCell>
         <mxCell id="a8yW2OLtsGay3cAYbttM-35" value="Mysql × 2" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=none;fillColor=#BAC8D3;gradientColor=none;fontSize=18;fontColor=#AE4132;verticalAlign=top;fontStyle=0;opacity=40;strokeWidth=3;" vertex="1" parent="a8yW2OLtsGay3cAYbttM-33">
-          <mxGeometry x="1430" y="1200" width="250" height="120" as="geometry" />
+          <mxGeometry x="1440" y="1200" width="220" height="120" as="geometry" />
         </mxCell>
         <mxCell id="a8yW2OLtsGay3cAYbttM-36" value="中间件主机 × 3" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=none;fillColor=#BAC8D3;gradientColor=none;fontSize=18;fontColor=#AE4132;verticalAlign=top;fontStyle=0;opacity=40;strokeWidth=3;" vertex="1" parent="a8yW2OLtsGay3cAYbttM-33">
-          <mxGeometry x="1790" y="1120" width="420" height="196" as="geometry" />
+          <mxGeometry x="1440" y="1340" width="220" height="260" as="geometry" />
         </mxCell>
         <mxCell id="a8yW2OLtsGay3cAYbttM-37" value="COP主机2" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=none;fillColor=#BAC8D3;gradientColor=none;fontSize=18;fontColor=#AE4132;verticalAlign=top;fontStyle=0;opacity=40;strokeWidth=3;" vertex="1" parent="a8yW2OLtsGay3cAYbttM-33">
           <mxGeometry x="640" y="850" width="1060" height="250" as="geometry" />
@@ -1267,10 +1267,10 @@
           <mxGeometry x="710" y="920" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="a8yW2OLtsGay3cAYbttM-70" value="&lt;span style=&quot;color: rgb(255 , 0 , 0) ; font-size: 15px ; background-color: rgb(248 , 249 , 250)&quot;&gt;redis哨兵集群&lt;/span&gt;&lt;br style=&quot;color: rgb(255 , 0 , 0) ; font-size: 15px ; background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;span style=&quot;color: rgb(255 , 0 , 0) ; font-size: 15px ; background-color: rgb(248 , 249 , 250)&quot;&gt;redis × 3&lt;/span&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/redis-2/1451/Untitled-2-128.png;fontSize=18;fontColor=#FF6666;" vertex="1" parent="a8yW2OLtsGay3cAYbttM-33">
-          <mxGeometry x="1830.51" y="1156" width="70" height="70" as="geometry" />
+          <mxGeometry x="1480.51" y="1376" width="74" height="74" as="geometry" />
         </mxCell>
         <mxCell id="a8yW2OLtsGay3cAYbttM-71" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://github.com/alibaba/nacos/raw/develop/doc/Nacos_Logo.png;imageBackground=default;" vertex="1" parent="a8yW2OLtsGay3cAYbttM-33">
-          <mxGeometry x="1997.54" y="1193" width="168.24" height="33" as="geometry" />
+          <mxGeometry x="1460" y="1520" width="130" height="25.5" as="geometry" />
         </mxCell>
         <mxCell id="a8yW2OLtsGay3cAYbttM-72" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="a8yW2OLtsGay3cAYbttM-33" source="a8yW2OLtsGay3cAYbttM-52" target="a8yW2OLtsGay3cAYbttM-66">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
