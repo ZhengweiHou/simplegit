@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-18T06:54:08.207Z" agent="5.0 (X11)" etag="r7x3hWhvhjcwsfy7Wb6S" version="15.7.4" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-11-18T06:57:02.555Z" agent="5.0 (X11)" etag="kla4aXDJkQxtokMSE0z4" version="15.7.4" type="github" pages="6">
   <diagram id="a45cf8ec-cd66-6f27-3ac3-be6e809c9e4a" name="Page-1">
     <mxGraphModel dx="1038" dy="-624" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -1384,7 +1384,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Page-2" id="KStF_IsO6cB4gq6jhFex">
-    <mxGraphModel dx="1730" dy="908" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1483" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="a8yW2OLtsGay3cAYbttM-0" />
         <mxCell id="a8yW2OLtsGay3cAYbttM-1" value="cop app 容器集群" parent="a8yW2OLtsGay3cAYbttM-0" visible="0" />
@@ -1683,11 +1683,10 @@
         <mxCell id="a8yW2OLtsGay3cAYbttM-70" value="&lt;span style=&quot;color: rgb(255 , 0 , 0) ; font-size: 15px ; background-color: rgb(248 , 249 , 250)&quot;&gt;redis哨兵集群&lt;/span&gt;&lt;br style=&quot;color: rgb(255 , 0 , 0) ; font-size: 15px ; background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;span style=&quot;color: rgb(255 , 0 , 0) ; font-size: 15px ; background-color: rgb(248 , 249 , 250)&quot;&gt;redis × 3&lt;/span&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/redis-2/1451/Untitled-2-128.png;fontSize=18;fontColor=#FF6666;" parent="a8yW2OLtsGay3cAYbttM-33" vertex="1">
           <mxGeometry x="1480.51" y="1376" width="74" height="74" as="geometry" />
         </mxCell>
-        <mxCell id="TLZ14NFido20fHj8pr95-7" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="a8yW2OLtsGay3cAYbttM-33" source="a8yW2OLtsGay3cAYbttM-71" target="TLZ14NFido20fHj8pr95-4" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="a8yW2OLtsGay3cAYbttM-71" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://github.com/alibaba/nacos/raw/develop/doc/Nacos_Logo.png;imageBackground=default;" parent="a8yW2OLtsGay3cAYbttM-33" vertex="1">
-          <mxGeometry x="1460" y="1520" width="130" height="25.5" as="geometry" />
+        <mxCell id="TLZ14NFido20fHj8pr95-7" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="a8yW2OLtsGay3cAYbttM-33" source="0dUEmEIn2t5xBbubSeUU-20" target="TLZ14NFido20fHj8pr95-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1590" y="1532.5833333333335" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="a8yW2OLtsGay3cAYbttM-72" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="a8yW2OLtsGay3cAYbttM-33" source="a8yW2OLtsGay3cAYbttM-52" target="a8yW2OLtsGay3cAYbttM-66" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1960,6 +1959,9 @@
               <mxPoint x="1710" y="770" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="0dUEmEIn2t5xBbubSeUU-20" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://github.com/alibaba/nacos/raw/develop/doc/Nacos_Logo.png;" vertex="1" parent="a8yW2OLtsGay3cAYbttM-33">
+          <mxGeometry x="1460" y="1517.25" width="152.94" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
