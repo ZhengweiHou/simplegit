@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-19T09:21:09.190Z" agent="5.0 (X11)" etag="-BHsq9MJwRpYdntDdzF8" version="15.7.4" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-11-19T09:23:42.819Z" agent="5.0 (X11)" etag="vDlnRQTDGzB4FN8dn_wV" version="15.7.4" type="github" pages="6">
   <diagram id="a45cf8ec-cd66-6f27-3ac3-be6e809c9e4a" name="Page-1">
     <mxGraphModel dx="1038" dy="-624" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -1973,11 +1973,11 @@
         <mxCell id="0dUEmEIn2t5xBbubSeUU-20" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://github.com/alibaba/nacos/raw/develop/doc/Nacos_Logo.png;" vertex="1" parent="a8yW2OLtsGay3cAYbttM-33">
           <mxGeometry x="1460" y="1517.25" width="152.94" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0dUEmEIn2t5xBbubSeUU-21" value="&lt;div&gt;NFS:&lt;/div&gt;&lt;div&gt;export&amp;nbsp; /app/COP_DARA&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="a8yW2OLtsGay3cAYbttM-33">
-          <mxGeometry x="650" y="579.5" width="240" height="41" as="geometry" />
+        <mxCell id="0dUEmEIn2t5xBbubSeUU-21" value="&lt;div&gt;NFS:&lt;/div&gt;&lt;div&gt;export&amp;nbsp; /app/COP_DATA&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="a8yW2OLtsGay3cAYbttM-33">
+          <mxGeometry x="650" y="579.5" width="170" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="0dUEmEIn2t5xBbubSeUU-22" value="&lt;div&gt;NFS:&lt;/div&gt;&lt;div&gt;mount&amp;nbsp; /app/COP_DARA&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="a8yW2OLtsGay3cAYbttM-33">
-          <mxGeometry x="658.01" y="1030" width="240" height="41" as="geometry" />
+        <mxCell id="0dUEmEIn2t5xBbubSeUU-22" value="&lt;div&gt;NFS:&lt;/div&gt;&lt;div&gt;mount&amp;nbsp; /app/COP_DATA&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="a8yW2OLtsGay3cAYbttM-33">
+          <mxGeometry x="658.01" y="1030" width="171.99" height="41" as="geometry" />
         </mxCell>
         <mxCell id="0dUEmEIn2t5xBbubSeUU-24" value="AIC 非金融前置" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="a8yW2OLtsGay3cAYbttM-33">
           <mxGeometry x="1300" y="420" width="130" height="70" as="geometry" />
