@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-16T08:04:00.834Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="DJ7Ucefb0sEogYbdVJVG" version="15.9.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-12-16T08:09:23.771Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="95hOGZd7JPlx1vosJeWU" version="15.9.1" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1707" dy="952" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -134,7 +134,7 @@
             <mxRectangle x="20" y="730" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xLAzKijL3OD3nOfyhBYi-44" value="- cacheMap:&lt;String,CacheData&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Comic Sans MS;fontColor=#000000;rounded=1;sketch=1;fontStyle=0" vertex="1" parent="xLAzKijL3OD3nOfyhBYi-39">
+        <mxCell id="xLAzKijL3OD3nOfyhBYi-44" value="- cacheMap:&lt;String,CacheData&gt;  怎么初始化的？" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Comic Sans MS;fontColor=#000000;rounded=1;sketch=1;fontStyle=0" vertex="1" parent="xLAzKijL3OD3nOfyhBYi-39">
           <mxGeometry y="26" width="300" height="26" as="geometry" />
         </mxCell>
         <mxCell id="xLAzKijL3OD3nOfyhBYi-47" value="- agent:HttpAgent" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Comic Sans MS;fontColor=#000000;rounded=1;sketch=1;fontStyle=0" vertex="1" parent="xLAzKijL3OD3nOfyhBYi-39">
