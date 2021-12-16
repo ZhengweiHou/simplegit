@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-16T09:31:48.049Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="zhZOaGcKK1QL7qdl_W7k" version="15.9.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-12-16T09:35:09.729Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="bcMp7h3ay4x2KGpguwY8" version="15.9.1" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="621" dy="309" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -31,7 +31,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="bytpuUA0BpOgYGp9liJy" name="Nacos类图梳理">
-    <mxGraphModel dx="2402" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1758" dy="464" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="xLAzKijL3OD3nOfyhBYi-0" />
         <mxCell id="xLAzKijL3OD3nOfyhBYi-1" parent="xLAzKijL3OD3nOfyhBYi-0" />
@@ -164,7 +164,7 @@
             <mxPoint x="320" y="625.5494505494505" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xLAzKijL3OD3nOfyhBYi-43" value="" style="endArrow=diamondThin;endFill=1;endSize=24;html=1;fontColor=#000000;strokeColor=#788AA3;fillColor=#B2C9AB;fontFamily=Comic Sans MS;sketch=0;fontStyle=0" edge="1" parent="xLAzKijL3OD3nOfyhBYi-1" source="xLAzKijL3OD3nOfyhBYi-35" target="xLAzKijL3OD3nOfyhBYi-39">
+        <mxCell id="xLAzKijL3OD3nOfyhBYi-43" value="" style="endArrow=diamondThin;endFill=1;endSize=24;html=1;fontColor=#000000;strokeColor=#788AA3;fillColor=#B2C9AB;fontFamily=Comic Sans MS;sketch=0;fontStyle=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="xLAzKijL3OD3nOfyhBYi-1" source="xLAzKijL3OD3nOfyhBYi-35" target="xLAzKijL3OD3nOfyhBYi-47">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="170.83333333333348" y="740" as="sourcePoint" />
             <mxPoint x="172.5" y="669.9999999999998" as="targetPoint" />
@@ -213,22 +213,13 @@
             <mxPoint x="330" y="957.1428571428571" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jVdrmeFoeAUQEXYwQzBf-5" value="CacheData" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;shadow=0;strokeWidth=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Comic Sans MS;fontColor=#000000;rounded=1;sketch=0;" vertex="1" parent="xLAzKijL3OD3nOfyhBYi-1">
-          <mxGeometry x="740" y="750" width="195" height="280" as="geometry">
+        <mxCell id="jVdrmeFoeAUQEXYwQzBf-5" value="DelegatinEventPublishingListener" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;shadow=0;strokeWidth=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Comic Sans MS;fontColor=#000000;rounded=1;sketch=0;" vertex="1" parent="xLAzKijL3OD3nOfyhBYi-1">
+          <mxGeometry x="740" y="750" width="210" height="80" as="geometry">
             <mxRectangle x="40" y="300" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jVdrmeFoeAUQEXYwQzBf-6" value="~ listener:Listener{ro}" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;sketch=0;fontFamily=Comic Sans MS;fontColor=#000000;" vertex="1" parent="jVdrmeFoeAUQEXYwQzBf-5">
-          <mxGeometry y="26" width="195" height="26" as="geometry" />
-        </mxCell>
         <mxCell id="jVdrmeFoeAUQEXYwQzBf-7" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;fontColor=#000000;fontFamily=Comic Sans MS;strokeColor=#788AA3;rounded=1;sketch=0;fontStyle=0" vertex="1" parent="jVdrmeFoeAUQEXYwQzBf-5">
-          <mxGeometry y="52" width="195" height="14" as="geometry" />
-        </mxCell>
-        <mxCell id="jVdrmeFoeAUQEXYwQzBf-8" value="~ checkListenerMd5(){&#xa;    listeners.foreach(&#xa;        lis -&gt; safeNotifyListener()&#xa;    )&#xa;}" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;sketch=0;fontFamily=Comic Sans MS;fontColor=#000000;" vertex="1" parent="jVdrmeFoeAUQEXYwQzBf-5">
-          <mxGeometry y="66" width="195" height="84" as="geometry" />
-        </mxCell>
-        <mxCell id="jVdrmeFoeAUQEXYwQzBf-9" value="- safeNotifyListener(){&#xa;    Runnable.run(){&#xa;        1.发布&#xa;        2.&#xa;        ....&#xa;    }&#xa;}" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;sketch=0;fontFamily=Comic Sans MS;fontColor=#000000;" vertex="1" parent="jVdrmeFoeAUQEXYwQzBf-5">
-          <mxGeometry y="150" width="195" height="100" as="geometry" />
+          <mxGeometry y="26" width="210" height="14" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
