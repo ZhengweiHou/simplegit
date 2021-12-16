@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-16T09:13:47.554Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="liG4Ryy5N7bxp3hasNVi" version="15.9.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-12-16T09:15:38.257Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="2cm1y2_2jQ0GJXpoCybD" version="15.9.1" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="621" dy="309" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -31,7 +31,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="bytpuUA0BpOgYGp9liJy" name="Nacos类图梳理">
-    <mxGraphModel dx="931" dy="464" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="569" dy="283" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="xLAzKijL3OD3nOfyhBYi-0" />
         <mxCell id="xLAzKijL3OD3nOfyhBYi-1" parent="xLAzKijL3OD3nOfyhBYi-0" />
@@ -205,15 +205,16 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-15" y="79" />
-              <mxPoint x="-15" y="105" />
+              <mxPoint x="-15" y="120" />
+              <mxPoint y="120" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="jVdrmeFoeAUQEXYwQzBf-1" value="~ checkListenerMd5()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;sketch=1;fontFamily=Comic Sans MS;fontColor=#000000;" vertex="1" parent="xLAzKijL3OD3nOfyhBYi-57">
           <mxGeometry y="66" width="150" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="xLAzKijL3OD3nOfyhBYi-60" value="- safeNotifyListener()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;sketch=1;fontFamily=Comic Sans MS;fontColor=#000000;" vertex="1" parent="xLAzKijL3OD3nOfyhBYi-57">
-          <mxGeometry y="92" width="150" height="26" as="geometry" />
+        <mxCell id="xLAzKijL3OD3nOfyhBYi-60" value="- safeNotifyListener(){&#xa;    // 发布事件&#xa;}" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;sketch=1;fontFamily=Comic Sans MS;fontColor=#000000;" vertex="1" parent="xLAzKijL3OD3nOfyhBYi-57">
+          <mxGeometry y="92" width="150" height="58" as="geometry" />
         </mxCell>
         <mxCell id="xLAzKijL3OD3nOfyhBYi-59" value="" style="endArrow=diamondThin;endFill=1;endSize=24;html=1;fontColor=#000000;strokeColor=#788AA3;fillColor=#B2C9AB;fontFamily=Comic Sans MS;sketch=1;fontStyle=0" edge="1" parent="xLAzKijL3OD3nOfyhBYi-1" source="xLAzKijL3OD3nOfyhBYi-57" target="xLAzKijL3OD3nOfyhBYi-39">
           <mxGeometry width="160" relative="1" as="geometry">
