@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-16T09:35:49.363Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="Tn3b0vN0hG3dPQ7OaY_C" version="15.9.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-12-16T09:36:33.955Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="IIymWLUJ30uM6zPjThTv" version="15.9.1" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="621" dy="309" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -171,7 +171,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xLAzKijL3OD3nOfyhBYi-52" value="[内部类]LongPollingRunable" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;shadow=0;strokeWidth=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Comic Sans MS;fontColor=#000000;rounded=1;sketch=0;" vertex="1" parent="xLAzKijL3OD3nOfyhBYi-1">
-          <mxGeometry x="-250" y="950" width="180" height="100" as="geometry">
+          <mxGeometry x="-260" y="970" width="180" height="100" as="geometry">
             <mxRectangle x="40" y="300" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
