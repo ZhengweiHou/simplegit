@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-17T06:25:54.410Z" agent="5.0 (X11)" etag="Q7og0fp4jSdaO7bnL6sY" version="15.8.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-12-17T10:45:01.632Z" agent="5.0 (X11)" etag="LQNwXXpn8I_-ptvJVO4z" version="15.8.2" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1038" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -31,7 +31,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="bytpuUA0BpOgYGp9liJy" name="Nacos类图梳理">
-    <mxGraphModel dx="1393" dy="368" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1685" dy="551" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="xLAzKijL3OD3nOfyhBYi-0" />
         <mxCell id="xLAzKijL3OD3nOfyhBYi-1" parent="xLAzKijL3OD3nOfyhBYi-0" />
