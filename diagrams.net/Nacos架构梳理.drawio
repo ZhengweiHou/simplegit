@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-21T02:45:05.816Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="ErgwTiH9pnau5IBkD81d" version="15.9.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-12-21T02:46:43.365Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="hczUELEwQ39t7MbYGAyh" version="15.9.6" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="976" dy="667" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -242,7 +242,7 @@
         <mxCell id="2Uv4qTD4Z72rB-VESnf--2" value="+ receiveConfigInfo(String content)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;sketch=0;fontFamily=Comic Sans MS;fontColor=#000000;" parent="jVdrmeFoeAUQEXYwQzBf-5" vertex="1">
           <mxGeometry y="88" width="330" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sf8vJhPJdhr2Wg7eh9AR-0" value="- onReceived(){&#xa;    delegate.receiveConfigInfo(content)&#xa;}" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;sketch=0;fontFamily=Comic Sans MS;fontColor=#000000;" vertex="1" parent="jVdrmeFoeAUQEXYwQzBf-5">
+        <mxCell id="sf8vJhPJdhr2Wg7eh9AR-0" value="- onReceived(){&#xa;    (NacosPropertySourcePostProcessor) delegate&#xa;        .receiveConfigInfo(content)&#xa;}" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;sketch=0;fontFamily=Comic Sans MS;fontColor=#000000;" vertex="1" parent="jVdrmeFoeAUQEXYwQzBf-5">
           <mxGeometry y="118" width="330" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sf8vJhPJdhr2Wg7eh9AR-1" value="- publishEvent(){&#xa;    event=new NacosConfigReceivedEvent()&#xa;    (DeferredApplicationEventPublisher) eventPublisher&#xa;        .publishEvent(event)&#xa;}" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;sketch=0;fontFamily=Comic Sans MS;fontColor=#000000;" vertex="1" parent="jVdrmeFoeAUQEXYwQzBf-5">
