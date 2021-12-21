@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-21T08:38:36.413Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="fbg_3tVriRuQRrD7TZHt" version="15.9.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-12-21T09:04:41.735Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="FFmiIByVAYDM8DbuWVwb" version="15.9.6" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1024" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -324,7 +324,7 @@
         <mxCell id="sf8vJhPJdhr2Wg7eh9AR-53" value="+ onApplicationEvent(ContextRefreshedEvent event){&#xa;    deferredEvents.iterator(){&#xa;        publishEvent(event)&#xa;    }&#xa;}" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;sketch=0;fontFamily=Comic Sans MS;fontColor=#000000;" parent="sf8vJhPJdhr2Wg7eh9AR-27" vertex="1">
           <mxGeometry y="240" width="332.5" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="sf8vJhPJdhr2Wg7eh9AR-29" value="impl" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;" parent="xLAzKijL3OD3nOfyhBYi-1" source="sf8vJhPJdhr2Wg7eh9AR-27" target="sf8vJhPJdhr2Wg7eh9AR-25" edge="1">
+        <mxCell id="sf8vJhPJdhr2Wg7eh9AR-29" value="impl" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;dashed=1;" parent="xLAzKijL3OD3nOfyhBYi-1" source="sf8vJhPJdhr2Wg7eh9AR-27" target="sf8vJhPJdhr2Wg7eh9AR-25" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="1070" y="770" as="sourcePoint" />
             <mxPoint x="1230" y="770" as="targetPoint" />
@@ -347,7 +347,7 @@
         <mxCell id="sf8vJhPJdhr2Wg7eh9AR-34" value="+ publishEvent(ApplicationEvent event)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;sketch=0;fontFamily=Comic Sans MS;fontColor=#000000;" parent="sf8vJhPJdhr2Wg7eh9AR-31" vertex="1">
           <mxGeometry y="40" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sf8vJhPJdhr2Wg7eh9AR-33" value="impl" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;" parent="xLAzKijL3OD3nOfyhBYi-1" source="sf8vJhPJdhr2Wg7eh9AR-27" target="sf8vJhPJdhr2Wg7eh9AR-31" edge="1">
+        <mxCell id="sf8vJhPJdhr2Wg7eh9AR-33" value="impl" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;dashed=1;" parent="xLAzKijL3OD3nOfyhBYi-1" source="sf8vJhPJdhr2Wg7eh9AR-27" target="sf8vJhPJdhr2Wg7eh9AR-31" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="1440.7547169811323" y="942" as="sourcePoint" />
             <mxPoint x="1509.2452830188681" y="810" as="targetPoint" />
@@ -412,6 +412,30 @@
             <mxPoint x="1330" y="1140" as="sourcePoint" />
             <mxPoint x="1490" y="1140" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="容器初始化梳理" id="Wh7fD1sHMGOvY9YVRwrO">
+    <mxGraphModel dx="-187" dy="357" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="Xzj9U4qif6n8z-RdBSC_-0" />
+        <mxCell id="Xzj9U4qif6n8z-RdBSC_-1" parent="Xzj9U4qif6n8z-RdBSC_-0" />
+        <mxCell id="Xzj9U4qif6n8z-RdBSC_-94" value="NacosConfigBeanDefinitionRegistrar" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;shadow=0;strokeWidth=1;fillColor=#b1ddf0;strokeColor=#10739e;fontFamily=Comic Sans MS;rounded=1;sketch=0;" vertex="1" parent="Xzj9U4qif6n8z-RdBSC_-1">
+          <mxGeometry x="1670" y="630" width="240" height="80" as="geometry">
+            <mxRectangle x="40" y="300" width="160" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xzj9U4qif6n8z-RdBSC_-95" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;fontColor=#000000;fontFamily=Comic Sans MS;strokeColor=#788AA3;rounded=1;sketch=0;fontStyle=0" vertex="1" parent="Xzj9U4qif6n8z-RdBSC_-94">
+          <mxGeometry y="26" width="240" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="Xzj9U4qif6n8z-RdBSC_-99" value="NacosConfigBeanDefinitionRegistrar" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;shadow=0;strokeWidth=1;fillColor=#b1ddf0;strokeColor=#10739e;fontFamily=Comic Sans MS;rounded=1;sketch=0;" vertex="1" parent="Xzj9U4qif6n8z-RdBSC_-1">
+          <mxGeometry x="1380" y="700" width="240" height="80" as="geometry">
+            <mxRectangle x="40" y="300" width="160" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xzj9U4qif6n8z-RdBSC_-100" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;fontColor=#000000;fontFamily=Comic Sans MS;strokeColor=#788AA3;rounded=1;sketch=0;fontStyle=0" vertex="1" parent="Xzj9U4qif6n8z-RdBSC_-99">
+          <mxGeometry y="26" width="240" height="14" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
