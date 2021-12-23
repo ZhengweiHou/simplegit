@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-23T07:06:44.103Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="dd0ueEk6l3qAYTqh4j3c" version="16.0.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-12-23T07:35:15.800Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="_pPsaAJlMaRQW7wWPIt-" version="16.0.0" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1024" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -429,6 +429,12 @@
         </mxCell>
         <mxCell id="UsFemWHR5VdGpstYFWWI-1" value="+ saveSnapshot(){&#xa;    if (JvmUtil.isMultiInstance()) {&#xa;         ConcurrentDiskUtil.writeFileContent(file, config, Constants.ENCODE);&#xa;    } else {&#xa;        oUtils.writeStringToFile(file, config, Constants.ENCODE);&#xa;    }&#xa;}" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="LLaPvVeYttWxAWM9v30K-0">
           <mxGeometry y="74" width="380" height="116" as="geometry" />
+        </mxCell>
+        <mxCell id="UsFemWHR5VdGpstYFWWI-2" value="+ getSnapshot()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="LLaPvVeYttWxAWM9v30K-0">
+          <mxGeometry y="190" width="380" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UsFemWHR5VdGpstYFWWI-3" value="+ getFailover()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="LLaPvVeYttWxAWM9v30K-0">
+          <mxGeometry y="220" width="380" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LLaPvVeYttWxAWM9v30K-3" value="" style="endArrow=none;html=1;endSize=12;startArrow=diamondThin;startSize=14;startFill=0;align=left;verticalAlign=bottom;rounded=0;fontSize=9;endFill=0;" edge="1" parent="xLAzKijL3OD3nOfyhBYi-1" source="xLAzKijL3OD3nOfyhBYi-39" target="LLaPvVeYttWxAWM9v30K-0">
           <mxGeometry x="-1" y="3" relative="1" as="geometry">
