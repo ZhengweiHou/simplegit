@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-27T06:53:11.762Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="FUwhLqql96CRhYYwHgE1" version="16.0.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-12-27T06:55:12.300Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="AClI7s5Ao3m0lqHNZTjL" version="16.0.3" type="github" pages="4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1038" dy="524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -31,7 +31,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="bytpuUA0BpOgYGp9liJy" name="Nacos类图梳理">
-    <mxGraphModel dx="1467" dy="318" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1883" dy="524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="xLAzKijL3OD3nOfyhBYi-0" />
         <mxCell id="xLAzKijL3OD3nOfyhBYi-1" parent="xLAzKijL3OD3nOfyhBYi-0" />
@@ -635,7 +635,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HFBJOiHJbEM8XUKGvRap-12" value="NacosRestTemplate" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;shadow=0;strokeWidth=1;fillColor=#008a00;strokeColor=#005700;fontFamily=Comic Sans MS;rounded=1;sketch=0;fontColor=#ffffff;" vertex="1" parent="1zOwSKH3rexbyhVKvax7-1">
-          <mxGeometry x="-40" y="320" width="230" height="80" as="geometry">
+          <mxGeometry x="10" y="210" width="230" height="80" as="geometry">
             <mxRectangle x="20" y="450" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
