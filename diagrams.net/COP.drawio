@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-06T11:22:37.844Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="PbOiAR7r8j5JaAMol3y3" version="16.2.1" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-01-06T11:34:27.167Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="9ufQWL14RtOtYo4ShfR_" version="16.2.1" type="github" pages="6">
   <diagram name="主图" id="KStF_IsO6cB4gq6jhFex">
-    <mxGraphModel dx="990" dy="680" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1650" dy="1133" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="a8yW2OLtsGay3cAYbttM-0" />
         <mxCell id="a8yW2OLtsGay3cAYbttM-1" value="cop app 容器集群" parent="a8yW2OLtsGay3cAYbttM-0" />
